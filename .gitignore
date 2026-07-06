@@ -12,3 +12,11 @@ Thumbs.db
 *~
 *.swp
 *.swo
+
+# 跨设备独有配置（每台设备独立）
+.claude/settings.local.json
+.claude/.claude/
+
+# 定时任务文件（按设备独立，不同步）
+.claude/scheduled_tasks.json
+.claude/scheduled_tasks.lock
