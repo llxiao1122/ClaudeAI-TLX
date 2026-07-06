@@ -1,10 +1,3 @@
-# 敏感配置（含钉钉token等密钥）
-.claude/settings.local.json
-.claude/.claude/
-
-# 定时任务锁（运行状态，非配置）
-.claude/scheduled_tasks.lock
-
 # 系统文件
 .DS_Store
 .DS_Store?
