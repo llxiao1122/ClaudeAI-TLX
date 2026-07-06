@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//Users/mi/Documents/claudeai/知识库/**)",
+      "Read(//Users/mi/**)",
+      "WebSearch",
+      "Bash(python3 -m json.tool)",
+      "Bash(curl *)",
+      "Bash(git add *)",
+      "Bash(git rm *)",
+      "Bash(git commit *)",
+      "Bash(ssh -T git@github.com)",
+      "Bash(ssh-keygen -R github.com)",
+      "Bash(ssh-keyscan github.com)",
+      "Bash(git remote *)",
+      "Bash(git push *)",
+      "Bash(git branch *)",
+      "Bash(ssh -vT git@github.com)"
+    ]
+  }
+}
