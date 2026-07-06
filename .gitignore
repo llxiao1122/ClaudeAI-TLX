@@ -1,0 +1,31 @@
+# 知识库 Office 二进制文件（太大，不同步）
+*.docx
+*.xls
+*.xlsx
+*.doc
+*.pdf
+
+# 知识库目录
+知识库/
+
+# 敏感配置（含钉钉token等密钥）
+.claude/settings.local.json
+.claude/.claude/
+
+# 定时任务锁（运行状态，非配置）
+.claude/scheduled_tasks.lock
+
+# 系统文件
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# 临时文件
+*.tmp
+*~
+*.swp
+*.swo

@@ -1,0 +1,15 @@
+{
+  "tasks": [
+    {
+      "id": "c40e0887",
+      "cron": "50 8 * * 1-5",
+      "prompt": "【自动任务】8:50到了，自动计算今日值班人员并发送到钉钉群，同时推送今日需完成台账清单。",
+      "createdAt": 1783227602381,
+      "recurring": true,
+      "createdBySessionId": "fc634bc4-ccee-48e1-ba8e-9044313a2c1d",
+      "createdByPid": 15011,
+      "createdByProcStart": "Sat Jul  4 08:25:35 2026",
+      "lastFiredAt": 1783305835754
+    }
+  ]
+}
