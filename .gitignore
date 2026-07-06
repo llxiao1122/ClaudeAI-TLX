@@ -1,13 +1,3 @@
-# 知识库 Office 二进制文件（太大，不同步）
-*.docx
-*.xls
-*.xlsx
-*.doc
-*.pdf
-
-# 知识库目录
-知识库/
-
 # 敏感配置（含钉钉token等密钥）
 .claude/settings.local.json
 .claude/.claude/
