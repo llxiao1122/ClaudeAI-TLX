@@ -50,7 +50,7 @@ metadata:
    └─ 检查是否有遗漏
   ↓
 ⑧ 判断更新
-   ├─ 是否产生新任务 → 更新任务与记录
+   ├─ 是否产生新任务 → 更新 tasks.md
    ├─ 是否产生新经验 → 更新 experience.md
    ├─ 是否犯了错 → 更新 mistakes.md
    └─ 是否改变了今日状态 → 更新 context/today.md

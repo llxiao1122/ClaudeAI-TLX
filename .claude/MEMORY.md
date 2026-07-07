@@ -10,10 +10,10 @@
 - [history](memory/history.md) — 会话历史摘要
 - [leadership](memory/leadership.md) — 领导认知档案（行为模式/沟通策略）
 - [organization](memory/organization.md) — 组织架构、岗位职责、人员速写
-- [李林骁个人规划背景](memory/李林骁个人规划背景.md) — 职业思考（仅在讨论人生规划时调用）
+- [user-profile](memory/user-profile.md) — 职业思考（仅在讨论人生规划时调用）
 
 ## 任务
-- [任务与记录](memory/任务与记录.md) — 待办清单（紧急/常规/持续/已完结）
+- [tasks](memory/tasks.md) — 待办清单（紧急/常规/持续/已完结）
 
 ## 运作
 - [operations](memory/operations.md) — 群沟通/台账分配/工作模板/防汛/钉钉
