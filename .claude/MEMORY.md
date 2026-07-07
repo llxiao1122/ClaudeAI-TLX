@@ -29,33 +29,25 @@
 ### 🧠 Memory/
 | 文件 | 内容 |
 |:----|:----|
-| Preferences.md | AI工作偏好/输出习惯 |
-| Experience.md | 经验沉淀（可复用） |
-| Organization.md | 组织架构/岗位/师徒/人员速写 |
+| [Preferences.md](Memory/Preferences.md) | AI工作偏好/输出习惯 |
+| [Experience.md](Memory/Experience.md) | 管理经验沉淀 |
+| [Organization.md](Memory/Organization.md) | 组织架构/岗位/对接原则 |
 
 ### 📋 Context/
 | 文件 | 内容 |
 |:----|:----|
-| Today.md | 今日动态（值班/重点/截止/风险） |
-| ThisWeek.md | 本周重点 |
-| CurrentProjects.md | 当前专项项目 |
+| [Today.md](Context/Today.md) | 今日动态（值班/重点/截止/风险） |
+| [ThisWeek.md](Context/ThisWeek.md) | 本周重点 |
+| [CurrentProjects.md](Context/CurrentProjects.md) | 当前专项项目 |
 
 ### ⚡ Commands/
 | 文件 | 功能 |
 |:----|:----|
-| 日报.md | 日报生成工作流 |
-| 会议.md | 会议纪要模板 |
-| 制度分析.md | 制度查询分析流程 |
-| 工作安排模板.md | 工作安排输出模板 |
-
-### 📊 Analysis/
-| 子模块 | 功能 |
-|:------|:----|
-| Weekly/ | 周分析 |
-| Monthly/ | 月度分析 |
-| Leadership/ | 领导风格分析 |
-| Team/ | 团队状态分析 |
-| Risk/ | 风险评估 |
+| [日报.md](Commands/日报.md) | 日报生成工作流 |
+| [会议.md](Commands/会议.md) | 会议纪要模板 |
+| [制度分析.md](Commands/制度分析.md) | 制度查询分析流程 |
+| [自我成长.md](Commands/自我成长.md) | AI自我分析与优化 |
+| [工作安排模板.md](Commands/工作安排模板.md) | 工作安排输出模板 |
 
 ### 📚 Knowledge/
 | 子模块 | 说明 |
@@ -63,7 +55,7 @@
 | Documents/ | 制度/规范/流程文档 |
 | Objects/ | 物资/资产对象信息 |
 | Archive/ | 历史归档 |
-| *知识库/* | 完整制度/安全/手册库（外部目录） |
+| [Knowledge/](Knowledge/INDEX.md) | 完整制度/安全/手册库（173文件） |
 
 ### 🗄️ Archive/
 | 说明 |
@@ -81,4 +73,4 @@
 4. `Context/ThisWeek.md` → 本周重点
 5. `Management/Tasks/tasks.md` → 当前待办
 6. `Context/CurrentProjects.md` → 当前项目
-7. `知识库/INDEX.md` → 按需定位
+7. `Knowledge/INDEX.md` → 按需定位
