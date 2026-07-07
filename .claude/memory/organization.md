@@ -1,3 +1,11 @@
+---
+name: 组织架构与人员管理
+description: 领导链完整架构、岗位职责、师徒关系、人员速写
+metadata:
+  type: reference
+  project: 铁炉西工班管理
+---
+
 # 组织架构与人员管理
 
 ## 领导链

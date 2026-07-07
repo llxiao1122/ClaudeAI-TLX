@@ -1,3 +1,11 @@
+---
+name: 日常运作规范
+description: 四群沟通规则、库区台账分配、每日工作模板、防汛安全、作息制度、钉钉配置
+metadata:
+  type: reference
+  project: 铁炉西工班管理
+---
+
 # 铁炉西工班日常运作规范
 
 ## 四群沟通

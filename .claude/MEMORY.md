@@ -8,13 +8,17 @@
 - [mistakes](memory/mistakes.md) — 错误记录（防重复犯错）
 - [experience](memory/experience.md) — 经验沉淀（可复用）
 - [history](memory/history.md) — 会话历史摘要
+- [leadership](memory/leadership.md) — 领导认知档案（行为模式/沟通策略）
+- [organization](memory/organization.md) — 组织架构、岗位职责、人员速写
+- [李林骁个人规划背景](memory/李林骁个人规划背景.md) — 职业思考（仅在讨论人生规划时调用）
 
 ## 任务
 - [任务与记录](memory/任务与记录.md) — 待办清单（紧急/常规/持续/已完结）
 
 ## 运作
-- [日常运作规范](memory/日常运作规范.md) — 群沟通/台账分配/工作模板/防汛/钉钉
-- [值班表与库区轮换](memory/值班表与库区轮换管理.md) — 值班轮序+库区分配
+- [operations](memory/operations.md) — 群沟通/台账分配/工作模板/防汛/钉钉
+- [duty-schedule](memory/duty-schedule.md) — 值班轮序+库区分配
+- [projects](memory/projects.md) — 三菱验收/WMS规则/专项工作
 - [context/today](context/today.md) — 每日动态上下文（值班/重点/截止/风险）
 
 ## Workflow — 标准化工作流程
@@ -28,12 +32,3 @@
 - [制度分析模板](templates/制度分析模板.md) — 制度分析格式
 - [日报模板](templates/日报模板.md) — 日报格式
 - [会议纪要模板](templates/会议纪要模板.md) — 纪要格式
-
-## 组织
-- [组织架构与人员管理](memory/组织架构与人员管理.md) — 领导链/岗位/师徒
-- [leadership](memory/leadership.md) — 领导认知档案（行为模式/沟通策略）
-- [专项工作管理](memory/专项工作管理.md) — 三菱验收/WMS规则
-
-## 个人
-- [李林骁个人规划背景](memory/李林骁个人规划背景.md) — 职业思考
-- [知识库重构记录](memory/知识库重构记录.md) — 2026-07-07全量重构

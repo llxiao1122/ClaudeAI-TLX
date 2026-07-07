@@ -1,3 +1,11 @@
+---
+name: 专项工作管理
+description: 三菱电梯备件验收进度、WMS验收规则、验收分组
+metadata:
+  type: project
+  project: 铁炉西工班管理
+---
+
 # 专项工作管理
 
 ## 三菱电梯备件验收
