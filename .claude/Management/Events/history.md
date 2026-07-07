@@ -18,7 +18,7 @@ metadata:
 - 从"知识库"模式升级为"六层AI工作系统"
 - 新增：mistakes/thinking/decision/identity/preferences/experience/leadership/history
 - 新增：context/today.md（每日动态上下文）
-- 规划：workflow/templates/agents/graph/learning 后续逐步实施
+- 系统架构已迭代完成，当前为行为引擎模式
 
 ## 2026-07-07
 
