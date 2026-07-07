@@ -20,3 +20,6 @@ Thumbs.db
 # 定时任务文件（按设备独立，不同步）
 .claude/scheduled_tasks.json
 .claude/scheduled_tasks.lock
+
+# 知识库备份归档（113MB，不入库）
+知识库/99-知识库系统/原始目录备份_*.tar.gz
