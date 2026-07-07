@@ -21,5 +21,5 @@ Thumbs.db
 .claude/scheduled_tasks.json
 .claude/scheduled_tasks.lock
 
-# 知识库备份归档（113MB，不入库）
-知识库/99-知识库系统/原始目录备份_*.tar.gz
+# 知识库备份归档（107MB超限，不入库）
+Knowledge/99-知识库系统/原始目录备份_*.tar.gz
