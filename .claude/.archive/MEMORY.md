@@ -1,0 +1,24 @@
+- [仓库数据](Memory/StorageAreaLayout.md) — 铁炉西物资总库数据仓库（含库区物理信息/卫生/物资/库存等）
+- [组织架构](Memory/Organization.md) — 汇报链/管理岗/安全岗/对接原则
+- [经验库](Memory/Experience.md) — 历史经验教训
+- [偏好](Memory/Preferences.md) — 用户长期工作偏好
+- [台账核查](Memory/AccountsLedgerCheck.md) — 台账核查清单和周期
+- [压力转化原则](Memory/ManagementPressureConversion.md) — 上级要求转化为自己的任务安排，不当压力二传手
+- [Enterprise Brain](../Enterprise_Brain/Enterprise_Brain.md) — 企业认知模型（目录化），覆盖 Knowledge/ 168 文件的管理逻辑索引
+  - [企业全景](../Enterprise_Brain/01_Organization/05_企业全景.md)
+  - [组织架构](../Enterprise_Brain/01_Organization/01_组织架构.md)
+  - [岗位职责](../Enterprise_Brain/01_Organization/02_岗位职责.md)
+  - [权责关系](../Enterprise_Brain/01_Organization/03_权责关系.md)
+  - [汇报链路](../Enterprise_Brain/01_Organization/04_汇报链路.md)
+  - [领导决策模型](../Enterprise_Brain/02_Leadership/01_领导决策模型.md)
+  - [供应链流程](../Enterprise_Brain/Operations/01_供应链流程.md)
+  - [安全责任链](../Enterprise_Brain/Operations/02_安全责任链.md)
+  - [台账管理矩阵](../Enterprise_Brain/Operations/03_台账管理矩阵.md)
+  - [模块管理目的](../Enterprise_Brain/Operations/04_模块管理目的.md)
+  - [知识关联索引](../Enterprise_Brain/Operations/05_知识关联索引.md)
+  - [文件版本状态](../Enterprise_Brain/Operations/06_文件版本状态.md)
+  - [知识源索引](../Enterprise_Brain/Operations/07_知识源索引.md)
+  - [审批逻辑](../Enterprise_Brain/03_Management/01_审批逻辑.md)
+  - [风险识别](../Enterprise_Brain/03_Management/02_风险识别.md)
+  - [制度版本管理](../Enterprise_Brain/03_Management/03_制度版本管理.md)
+  - [企业大脑演化记录](../Enterprise_Brain/04_Evolution/01_企业大脑演化记录.md)

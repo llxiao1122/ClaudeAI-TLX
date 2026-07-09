@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: work-ai
+created: 2026-07-07T22:31:25+08:00
